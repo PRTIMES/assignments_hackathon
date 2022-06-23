@@ -14,7 +14,11 @@ Slackで気軽に声をかけてください。
 * 以下の課題が簡単すぎると感じた方はやらなくて大丈夫です。
 * GitHubアカウントが必要なので持っていない方は作成してください。
 
-## GitHubの自分のリポジトリにPRを作ってmergeする
+## 課題
+
+(選択) とある課題は、いずれか一方でOKです。
+
+### (選択) GitHubの自分のリポジトリにPRを作ってmergeする
 
 1. GitHub上で新しいリポジトリを作成してください。名前は好きに決めて大丈夫です。作成時に"Add a README file"を有効にしてください。
 2. 作成したGitリポジトリを手元にcloneしてください。
@@ -24,7 +28,7 @@ Slackで気軽に声をかけてください。
 6. Pull Requestを作成してください。
 7. mainブランチに変更をmergeしてください。
 
-## GitHubで他のリポジトリにPRを送る
+### (選択) GitHubで他のリポジトリにPRを送る
 
 1. https://github.com/octocat/Spoon-Knife をForkしてください。
 2. Forkしたリポジトリを手元にcloneしてください。
@@ -33,8 +37,9 @@ Slackで気軽に声をかけてください。
 5. 変更をcommitしてから、pushしてください。
 6. https://github.com/octocat/Spoon-Knife に対してPull Requestを作成してください。
 
-## アカウントにSSHキーを登録する
-ハッカソン参加にあたってSSHキーを登録する必要があるので[GitHub アカウントへの新しい SSH キーの追加 - GitHub Docs](https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)を参考に設定してください。
+### 2要素認証を有効にして、SSHキーを登録する
+ハッカソン参加にあたって2要素認証を有効にする必要があるので、[2要素認証でアカウントを保護する](https://docs.github.com/ja/authentication/securing-your-account-with-two-factor-authentication-2fa)を参考に設定してください。  
+2要素認証を有効にするとHTTPSでのパスワード認証に失敗するようになるので、SSHキーを登録する事を推奨します。[GitHubアカウントへの新しいSSHキーの追加 - GitHub Docs](https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)を参考にしてください。
 
 ## 最後に
 お疲れ様です！課題は以上になります。
