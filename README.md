@@ -1,7 +1,7 @@
 # ハッカソン参加者事前課題
 
 ## この課題について
-このハッカソンでは、参加者の書いたコードが主な審査の対象になります。  
+PR TIMES HACKATHONでは、参加者の書いたコードが主な審査の対象になります。  
 コードはGitHubで確認するため、参加者は自分の書いたコードを、gitを利用してGitHubにpushする必要があります。  
 以下の課題は、簡単なワークを通してGitHubでの基本的なコード管理フローである[GitHub flow](https://docs.github.com/ja/get-started/quickstart/github-flow)を確認するものです。  
 
