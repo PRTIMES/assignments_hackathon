@@ -13,7 +13,6 @@ Slackで気軽に声をかけてください。
 * 説明は少し不親切になっています。分からない用語などあれば [サル先生のGit入門](https://backlog.com/ja/git-tutorial/) などを参考にして調べてください。
 * 以下の課題が簡単すぎると感じた方はやらなくて大丈夫です。
 * GitHubアカウントが必要なので持っていない方は作成してください。
-  * SSHキーを登録する必要があるので[GitHub アカウントへの新しい SSH キーの追加 - GitHub Docs](https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)を参考に設定してください。
 
 ## GitHubの自分のリポジトリにPRを作ってmergeする
 
@@ -33,6 +32,9 @@ Slackで気軽に声をかけてください。
 4. 開いたファイルに好きな変更を入れてください。
 5. 変更をcommitしてから、pushしてください。
 6. https://github.com/octocat/Spoon-Knife に対してPull Requestを作成してください。
+
+## アカウントにSSHキーを登録する
+ハッカソン参加にあたってSSHキーを登録する必要があるので[GitHub アカウントへの新しい SSH キーの追加 - GitHub Docs](https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)を参考に設定してください。
 
 ## 最後に
 お疲れ様です！課題は以上になります。
